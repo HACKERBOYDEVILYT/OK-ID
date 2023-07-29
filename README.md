@@ -9,7 +9,7 @@
 [🥰]My Facebook id     : https://www.facebook.com/profile.php?id=100070764496580
 [💉]TOOL : 
 
-rm -rf BDMC
+rm -rf OK-ID
 
 git clone https://github🙆.com/HACKERBOYDEVILYT/😔OK-ID
 
